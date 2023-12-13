@@ -8,9 +8,6 @@ body {
     font-size: 1.2rem;
     font-family: 'work sans', sans-serif;
 }
-* {
-    margin: 0;
-}
 
 .isi h1 {
     text-shadow: 2px rgb(127, 17, 17);
